@@ -30,7 +30,7 @@ Expected URL format: http://HOSTNAME/[PATH]
 </pre>
 
 ## Examples
-Downloading of a random video sample and picture:
+Downloading a random video sample and picture:
 <pre>
 ./easy_get -n 2 http://mirrors.standaloneinstaller.com/video-sample/star_trails.mp4 http://st.kp.yandex.net/images/kadr/sm_2562186.jpg
 </pre>
