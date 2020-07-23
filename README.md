@@ -6,8 +6,8 @@ C++ http client for web files downloading
 
 Get sources & install:
 <pre>
-git clone https://github.com/GimmeDanger/easy-get.git
-bash build.sh
+$ git clone https://github.com/GimmeDanger/easy-get.git
+$ bash build.sh
 </pre>
 
 Building script runs unit tests at the end:
@@ -23,8 +23,8 @@ http_queries_pdf_test OK
 
 ## Usage
 <pre>
-usage: easy-get [OPTIONS] URL ...
--n NUM: available number of thread
+usage : easy-get [OPTIONS] URL ...
+-n NUM: available number of threads
 -h    : print help message and exit
 Expected URL format: http://HOSTNAME/[PATH]
 </pre>
